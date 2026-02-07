@@ -1,0 +1,1 @@
+Using branches allows users to work on new features or changes without affecting the main version of the project. This makes collaboration safer because mistakes or unfinished work stay isolated in separate branches. Branches help prevent breaking the main code, overwriting teammates’ work, and mixing incomplete features into the final project.
